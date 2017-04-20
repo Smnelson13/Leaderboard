@@ -1,0 +1,4 @@
+[ERROR] [9c31e25a-2ed8-4e4f-bc3b-7d46db3bd516] [2017-04-11 11:40:30 GMT-04:00] Error msg: error("Error(code: 1, msg: \"near \\\"username\\\": syntax error\")")
+[ERROR] [cecf8609-65ff-4525-af47-5984204435e9] [2017-04-11 11:44:54 GMT-04:00] Error msg: error("Error(code: 1, msg: \"near \\\"username\\\": syntax error\")")
+[ERROR] [1be0fc5d-0370-4691-9cac-5fe4ac3a97f9] [2017-04-11 11:45:22 GMT-04:00] Error msg: error("Error(code: 1, msg: \"near \\\"username\\\": syntax error\")")
+[ERROR] [513156c2-7ebb-4ab4-a564-7618dd4410ce] [2017-04-12 09:13:28 GMT-04:00] Error msg: error("Error(code: 1, msg: \"near \\\"username\\\": syntax error\")")
